@@ -1,0 +1,18 @@
+.container {
+  font-size: 18px;
+  width: 75vh;
+  border: 3px solid black;
+  border-radius: 20px;
+}
+
+.caja {
+  width: 20vh;
+  padding: 1vh;
+  margin-left: 2vh;
+  float: left;
+}
+
+.clearfix {
+  float: none;
+  clear: both;
+}
